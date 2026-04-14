@@ -12,3 +12,6 @@ It's shaped like a duck!
 I followed [this tutorial](https://stasis.hackclub.com/starter-projects/blinky#blinky-board). 
 
 [Link to project here](https://stasis.hackclub.com/dashboard/projects/cmnr3zax0012301mpaw86ej3r) 
+
+### BoM
+<img width="1185" height="253" alt="image" src="https://github.com/user-attachments/assets/9310f4d9-ded1-426f-9c24-c9228154e811" />
