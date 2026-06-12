@@ -2,6 +2,8 @@
 Blinky board made through Hack Club's Stasis! I made it because I saw it on #stasis-sisters and I wanted to make a shiny bird-shaped thing. I learned how to create a PCB from start to finish with this project. 
 
 It's shaped like a duck! 
+<img width="870" height="1028" alt="image" src="https://github.com/user-attachments/assets/bb11c6e8-e81a-4a97-8659-1aaea2c6ca47" />
+
 ![duck_blinky_3d](https://github.com/user-attachments/assets/6edc0095-49d7-4d8e-af91-ab34fac6808e)
 
 <img width="595" height="485" alt="image" src="https://github.com/user-attachments/assets/1e0e754d-3557-4684-aca2-2e85a22f5081" />
